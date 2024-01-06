@@ -17,7 +17,7 @@ This application streamlines the process of creating and uploading AI-generated 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Sauravprasai/AI-Youtube-Video-Automation`
 2. Install required Python packages: `pip install -r requirements.txt`
 3. Set up Selenium WebDriver for your preferred browser.
 4. Obtain an API key from OpenAI and configure it within the application.
